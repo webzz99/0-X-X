@@ -39,3 +39,23 @@ body{
     font-size: 25px;
 
 }
+
+#gamestatus{
+
+    padding: 50px;
+    font-size: 40px;
+}
+
+button{
+    background-color:#ec68be;
+    width: 160px;
+    height: 50px;
+    color: rgba(63,94,251,1);
+    box-shadow: #010205;
+    border: 2px solid rgba(63,94,251,1);
+    box-shadow: 0 0 0 2px #ec68be;
+    font-size: 20px;
+    
+
+
+}
