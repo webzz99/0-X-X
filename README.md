@@ -41,6 +41,12 @@ Future enhancements will include the integration of an algorithm, enabling playe
 Additionally, a scoreboard feature is on the horizon, backed by a robust database system. This advancement will capture and record players' scores, injecting a competitive element into the game. Not only will users be able to test their strategic prowess against varying computer difficulty levels, but they can also track their progress and compete with others, enhancing the overall gaming experience.
 
 # Testing
+My testing phase commenced with multiple rounds of gameplay to ensure the accuracy of the game status. This iterative approach facilitated the examination of various game features, including the grid functionality and the restart button. Throughout eight test runs, I meticulously verified that the status bar appropriately recognized both draw and win outcomes, and the results were consistent with expectations. The grid performed seamlessly during the entire testing process, and the restart button demonstrated its functionality as intended.
+
+
+Below are the results from Lighthouse the results of the report where the same on desktop and mobile devices.
+
+![image](https://github.com/webzz99/0-X-X/assets/11245795/cdacc1f1-809f-4902-815f-d79c2a82adf7)
 
 
 # W3C Validator testing
@@ -50,18 +56,36 @@ HTML
 
 CSS
    No errors were return when passing through my code into the offcial W3C vaildator.
+
+JSHint
+  No errors were returned on the JSHint site.
   
 
 
 #### Link to Live page - 
 
 # Deployment
+Deploying the site to GitHub Pages involves the following steps:
 
+1.	Access the GitHub repository and navigate to the Settings tab.
+2.	In the Settings tab, find the Pages section.
+3.	From the drop-down menu in the Pages section, choose the Main Branch.
+4.	Once the Main Branch is selected, the page will refresh automatically.
+5.	After the refresh, a detailed ribbon display will confirm the successful deployment of the site to GitHub Pages.
+
+Confirmation in ribbon that site is Live:
 
 
 # Credits
 
+Images for X and O where taken from Google image search. 
+
+https://www.codebrainer.com/blog/tic-tac-toe-javascript-game - used to help code for winning combinations. 
 
 ### Youtube Videos links
+
+https://www.youtube.com/watch?v=1Py78eFL3YQ
+
+https://www.youtube.com/watch?v=oZrp3Atkz18
 
 
