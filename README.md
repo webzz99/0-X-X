@@ -3,30 +3,57 @@
 
 Welcome to the Noughts and Crosses game! May this delightful pastime bring you enduring joy and endless fun. :)
 
+"Noughts and Crosses," also known as Tic-Tac-Toe, is a classic paper-and-pencil game played on a 3x3 grid. The game involves two players, who take turns marking a space in the grid with their respective symbols (usually "X" for one player and "O" for the other). The objective is to get three of their symbols in a row, either horizontally, vertically, or diagonally.
 
-#### Lin to Live page - 
-
+The game has limited possibilities due to its small grid size, and it is possible to analyze and calculate various statistics related to its outcomes
+This game is a mulit-player game which needs two users on the computer one will be player X and the other player O play against family and friends and be come a Champion Noughts and Crosses player.
 
 # Features 
 
-## Grid
+## Existing Features
+
+### Header
+The Header contains the title Noughts and Crosses so that the user knows what game they are going to play, the text is in a font which is easy on the eyes and fun not so formal.
+
+### Grid
+The grid is a standard 3x3 grid which the game is always played so the game is kept to the classic pencil and paper style game. 
+The game is played on a square grid consisting of three rows and three columns, creating a 3x3 matrix, each cell in the grid represents a position where a player can place their symbol.
+
+### Theme
+The grid theme features a vibrant color palette blending shades of pink and purple, complemented by a subtle touch of blue. A carefully crafted gradient accentuates the central area where the game grid is positioned, establishing a clear focal point. This design not only directs the user's attention to the heart of the gameplay but also ensures a visually pleasing and cohesive user interface, creating an immersive and enjoyable experience.
 
 
-## Theme
+### Game Status
 
-## Game Status
+The game status occupies the space between the bottom of the grid and the button, serving as a crucial information hub for players. From indicating the initial turn to providing real-time updates on the game's outcome, this feature plays a pivotal role in enhancing the overall gaming experience.
+
+At the start, the status is set to "Player X, your turn," establishing the turn sequence, with Player X taking the first move. As the game progresses, the status dynamically updates to reflect the current player's turn, eliminating any confusion and allowing users to seamlessly follow the gameplay.
+
+Furthermore, the game status serves as an instant messenger of victory or draw. When a player clinches a win or when the game concludes in a draw, this information is promptly communicated through the status, providing a clear and concise summary of the result.
+
+This feature adds substantial value by keeping players informed, eliminating guesswork regarding the active turn, and promptly delivering the game's outcome. In doing so, it significantly contributes to a more enjoyable and carefree gaming experience, allowing players to focus on the strategic aspects of the game without the distraction of uncertainty.
 
 
-# Features left to implement 
+# Features left to implement
 
+Future enhancements will include the integration of an algorithm, enabling players to engage in strategic battles against the computer. The introduction of difficulty levels—easy, medium, and hard—will empower players to tailor the gaming experience to their skill level, introducing a new layer of dynamic fun.
 
+Additionally, a scoreboard feature is on the horizon, backed by a robust database system. This advancement will capture and record players' scores, injecting a competitive element into the game. Not only will users be able to test their strategic prowess against varying computer difficulty levels, but they can also track their progress and compete with others, enhancing the overall gaming experience.
 
 # Testing
 
 
 # W3C Validator testing
 
+HTML
+  No errors were return when passing through my code into the offcial W3C vaildator.
 
+CSS
+   No errors were return when passing through my code into the offcial W3C vaildator.
+  
+
+
+#### Link to Live page - 
 
 # Deployment
 
