@@ -20,11 +20,15 @@ This game is a mulit-player game which needs two users on the computer one will 
 
 ### Header
 The Header contains the title Noughts and Crosses so that the user knows what game they are going to play, the text is in a font which is easy on the eyes and fun not so formal.
+
+
 ![XO Header](https://github.com/webzz99/0-X-X/assets/11245795/d09220ba-5712-49d9-b937-9e5551e5f0b8)
 
 ### Grid
 The grid is a standard 3x3 grid which the game is always played so the game is kept to the classic pencil and paper style game. 
 The game is played on a square grid consisting of three rows and three columns, creating a 3x3 matrix, each cell in the grid represents a position where a player can place their symbol.
+
+
 ![XO Grid](https://github.com/webzz99/0-X-X/assets/11245795/20ac1e27-05ce-4c77-b6b5-9e240935e1be)
 
 ### Theme
@@ -32,6 +36,7 @@ The grid theme features a vibrant color palette blending shades of pink and purp
 
 
 ### Game Status
+
 ![XO Status](https://github.com/webzz99/0-X-X/assets/11245795/dbb29706-663c-411f-819b-cc1c56d1f6d7)
 ![XO Status Win](https://github.com/webzz99/0-X-X/assets/11245795/851232df-4616-4cbf-9ea3-113d04021b16)
 
