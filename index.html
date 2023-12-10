@@ -1,15 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <meta name="description" content="Noughts and Crosses game for 5+ ages">
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Noughts and Crosses</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Silkscreen&display=swap" rel="stylesheet">
+
   <link rel="stylesheet" href="style.css">
   
   
 </head>
+
 <body>
+  <header>Noughts and Crosses</header>
+
+  <!-- Grid for game play-->
   <div class="container">
     <div data-index="0" class="xobox"></div>
     <div data-index="1" class="xobox"></div>
@@ -21,9 +30,11 @@
     <div data-index="7" class="xobox"></div>
     <div data-index="8" class="xobox"></div>
   </div>
+  <!-- Game status -->
   <div id="gamestatus">Lets Play</div>
+  <!--Restart button-->
   <button id="restartgame">Try again</button>
 
- <script src="js/app.js"></script>
+ <script src="app.js"></script>
 </body>
 </html>
