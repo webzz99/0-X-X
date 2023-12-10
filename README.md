@@ -2,6 +2,7 @@
 ## Noughts and Crosses Game
 
 ####  Link to Live page - (https://webzz99.github.io/0-X-X/)
+
  <p align="center">
 ![XO mockup](https://github.com/webzz99/0-X-X/assets/11245795/1c0fc10b-8ee6-4ed2-8da0-4591b11e7e5b)
  </p>
