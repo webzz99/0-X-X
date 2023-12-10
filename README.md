@@ -1,6 +1,11 @@
 # 0-X-X
 ## Noughts and Crosses Game
 
+####  Link to Live page - (https://webzz99.github.io/0-X-X/)
+ <p align="center">
+![XO mockup](https://github.com/webzz99/0-X-X/assets/11245795/1c0fc10b-8ee6-4ed2-8da0-4591b11e7e5b)
+ </p>
+
 Welcome to the Noughts and Crosses game! May this delightful pastime bring you enduring joy and endless fun. :)
 
 "Noughts and Crosses," also known as Tic-Tac-Toe, is a classic paper-and-pencil game played on a 3x3 grid. The game involves two players, who take turns marking a space in the grid with their respective symbols (usually "X" for one player and "O" for the other). The objective is to get three of their symbols in a row, either horizontally, vertically, or diagonally.
