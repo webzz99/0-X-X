@@ -20,16 +20,20 @@ This game is a mulit-player game which needs two users on the computer one will 
 
 ### Header
 The Header contains the title Noughts and Crosses so that the user knows what game they are going to play, the text is in a font which is easy on the eyes and fun not so formal.
+![XO Header](https://github.com/webzz99/0-X-X/assets/11245795/d09220ba-5712-49d9-b937-9e5551e5f0b8)
 
 ### Grid
 The grid is a standard 3x3 grid which the game is always played so the game is kept to the classic pencil and paper style game. 
 The game is played on a square grid consisting of three rows and three columns, creating a 3x3 matrix, each cell in the grid represents a position where a player can place their symbol.
+![XO Grid](https://github.com/webzz99/0-X-X/assets/11245795/20ac1e27-05ce-4c77-b6b5-9e240935e1be)
 
 ### Theme
 The grid theme features a vibrant color palette blending shades of pink and purple, complemented by a subtle touch of blue. A carefully crafted gradient accentuates the central area where the game grid is positioned, establishing a clear focal point. This design not only directs the user's attention to the heart of the gameplay but also ensures a visually pleasing and cohesive user interface, creating an immersive and enjoyable experience.
 
 
 ### Game Status
+![XO Status](https://github.com/webzz99/0-X-X/assets/11245795/dbb29706-663c-411f-819b-cc1c56d1f6d7)
+![XO Status Win](https://github.com/webzz99/0-X-X/assets/11245795/851232df-4616-4cbf-9ea3-113d04021b16)
 
 The game status occupies the space between the bottom of the grid and the button, serving as a crucial information hub for players. From indicating the initial turn to providing real-time updates on the game's outcome, this feature plays a pivotal role in enhancing the overall gaming experience.
 
@@ -67,9 +71,6 @@ JSHint
   No errors were returned on the JSHint site.
   
 
-
-#### Link to Live page - 
-
 # Deployment
 Deploying the site to GitHub Pages involves the following steps:
 
@@ -80,6 +81,7 @@ Deploying the site to GitHub Pages involves the following steps:
 5.	After the refresh, a detailed ribbon display will confirm the successful deployment of the site to GitHub Pages.
 
 Confirmation in ribbon that site is Live:
+![Screenshot 2023-12-10 154420](https://github.com/webzz99/0-X-X/assets/11245795/55f03c2b-555a-4885-be5c-cbb99da3d1fe)
 
 
 # Credits
