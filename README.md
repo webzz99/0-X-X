@@ -48,6 +48,14 @@ Furthermore, the game status serves as an instant messenger of victory or draw. 
 
 This feature adds substantial value by keeping players informed, eliminating guesswork regarding the active turn, and promptly delivering the game's outcome. In doing so, it significantly contributes to a more enjoyable and carefree gaming experience, allowing players to focus on the strategic aspects of the game without the distraction of uncertainty.
 
+### Restart Button 
+
+![restart button](https://github.com/webzz99/0-X-X/assets/11245795/0a3d3598-7287-4a28-8c64-49686f2720d6)
+
+
+The restart button facilitates players in resetting their game, ensuring a seamless transition between gaming sessions. Additionally, it displays the game status, such as a player's victory, signaling that they can now initiate a game restart to engage in another round.
+
+
 
 # Features left to implement
 
